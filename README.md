@@ -1,0 +1,4 @@
+- [Products Management API](https://github.com/mmrasteu/ims-products-management-api): API for managing products in the inventory.
+- [Inventory Control API](https://github.com/mmrasteu/ims-inventory-control-api): API for controlling inventory levels and stock movements.
+- [Orders Management API](https://github.com/mmrasteu/ims-orders-management-api): API for managing orders and sales transactions.
+- [Reports and Analytics API](https://github.com/mmrasteu/ims-reports-and-analytics-api): API for generating reports and analytics on inventory data.
