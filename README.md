@@ -1,7 +1,7 @@
 - [Products Management API](https://github.com/mmrasteu/ims-products-management-api): Gestión de productos
 - [Inventory Control API](https://github.com/mmrasteu/ims-inventory-control-api): Control de inventario
-- [Orders Management API](https://github.com/mmrasteu/ims-orders-management-api): Gestion de pedidos
-- [Reports and Analytics API](https://github.com/mmrasteu/ims-reports-and-analytics-api): Generacion de infomres y analíticas
+- [Orders Management API](https://github.com/mmrasteu/ims-orders-management-api): Gestión de pedidos
+- [Reports and Analytics API](https://github.com/mmrasteu/ims-reports-and-analytics-api): Generación de infomres y analíticas
 
 # IMS - Sistema de Gestión de Inventarios
 
