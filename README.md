@@ -1,6 +1,6 @@
 - [Gateway]: API Gateway para conectar con las APIs
 - [Products Management API](https://github.com/mmrasteu/ims-products-management-api): Gestión de productos
-- [Inventory Control API](https://github.com/mmrasteu/ims-inventory-control-api): Control de inventario
+- [Inventory Control API](https://github.com/mmrasteu/ims-inventory-control-api): Control de existencias en el inventario
 - [Orders Management API]: Gestión de pedidos
 - [Reports and Analytics API]: Generación de infomres y analíticas
 
@@ -15,9 +15,9 @@ IMS es un sistema de gestión de inventarios diseñado para ayudar a las empresa
 ### Características Principales:
 - **Gateway**: API Gateway para conectar con las APIs. Se encarga de dirigir las solicitudes de los clientes a las distintas APIs del sistema y de gestionar la autenticación, autorización, monitoreo y limitación de tráfico. (Pendiente...)
 
-- **Gestión de Productos**: Permite a los usuarios crear, editar, eliminar y buscar productos en el inventario, incluyendo detalles como nombre, descripción, categoría, precio, etc. (Laravel - En Desarrollo)
+- **Gestión de Productos**: Permite a los usuarios crear, editar, eliminar y buscar productos en el inventario, incluyendo detalles como nombre, descripción, categoría, precio, etc. (Laravel/MySQL - En desarrollo)
 
-- **Control de Existencias**: Realiza un seguimiento en tiempo real de las existencias disponibles de cada producto, registrando las entradas y salidas de inventario y actualizando automáticamente los niveles de existencias. (Pendiente...)
+- **Control de Existencias**: Realiza un seguimiento en tiempo real de las existencias disponibles de cada producto, registrando las entradas y salidas de inventario y actualizando automáticamente los niveles de existencias. (NodeJS/Express/MongoDB - En desarrollo)
 
 - **Gestión de Pedidos**: Facilita la creación, edición y seguimiento de pedidos de productos, integrando la disponibilidad de productos con el control de existencias para validar los pedidos. (Pendiente...)
 
