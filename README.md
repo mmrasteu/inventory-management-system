@@ -1,6 +1,6 @@
 - [Gateway]: API Gateway para conectar con las APIs
 - [Products Management API](https://github.com/mmrasteu/ims-products-management-api): Gestión de productos
-- [Inventory Control API]: Control de inventario
+- [Inventory Control API](https://github.com/mmrasteu/ims-inventory-control-api): Control de inventario
 - [Orders Management API]: Gestión de pedidos
 - [Reports and Analytics API]: Generación de infomres y analíticas
 
